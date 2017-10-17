@@ -1,0 +1,172 @@
+[
+    {
+        "name" : "LeftLeg-1",
+        "filename" : "data/bodyparts/leftLeg-1.bin",
+        "matrices" : [
+            {
+                "_description" : "Сгиб в колене на 90 градусов",
+                "point" : 4,
+                "phi" : 0,
+                "theta" : 90,
+                "alpha" : 90
+            },
+            {
+                "_description" : "Подъём голени на 90 градусов",
+                "point" : 5,
+                "phi" : 0,
+                "theta" : 90,
+                "alpha" : -90
+            }
+        ]
+    },
+    {
+        "name" : "LeftLeg-2",
+        "filename" : "data/bodyparts/leftLeg-2.bin",
+        "matrices" : [
+            {
+                "_description" : "Подъём колена на 90 градусов",
+                "point" : 5,
+                "phi" : 0,
+                "theta" : 90,
+                "alpha" : -90
+            }
+        ]
+    },
+    {
+        "name" : "LeftLeg-3",
+        "filename" : "data/bodyparts/leftLeg-3.bin",
+        "matrices" : [
+            {
+                "_description" : "Подъём бедра на 90 градусов",
+                "point" : 5,
+                "phi" : 0,
+                "theta" : 90,
+                "alpha" : -90
+            }
+        ]
+    },
+    {
+        "name" : "RightLeg-1",
+        "filename" : "data/bodyparts/rightLeg-1.bin",
+        "matrices" : [
+            {
+                "_description" : "Сгиб в колене на 90 градусов",
+                "point" : 6,
+                "phi" : 0,
+                "theta" : 90,
+                "alpha" : 90
+            },
+            {
+                "_description" : "Подъём голени на 90 градусов",
+                "point" : 7,
+                "phi" : 0,
+                "theta" : 90,
+                "alpha" : -90
+            }
+        ]
+    },
+    {
+        "name" : "RightLeg-2",
+        "filename" : "data/bodyparts/rightLeg-2.bin",
+        "matrices" : [
+            {
+                "_description" : "Подъём колена на 90 градусов",
+                "point" : 7,
+                "phi" : 0,
+                "theta" : 90,
+                "alpha" : -90
+            }
+        ]
+    },
+    {
+        "name" : "RightLeg-3",
+        "filename" : "data/bodyparts/rightLeg-3.bin",
+        "matrices" : [
+            {
+                "_description" : "Подъём бедра на 90 градусов",
+                "point" : 7,
+                "phi" : 0,
+                "theta" : 90,
+                "alpha" : -90
+            }
+        ]
+    },
+    {
+        "name" : "LeftHand-1",
+        "filename" : "data/bodyparts/leftHand-1.bin",
+        "matrices" : [
+            {
+                "_description" : "Подъём руки на 90 градусов",
+                "point" : 1,
+                "phi" : 0,
+                "theta" : 90,
+                "alpha" : -90
+            }
+        ]
+    },
+    {
+        "name" : "LeftHand-2",
+        "filename" : "data/bodyparts/leftHand-2.bin",
+        "matrices" : [
+            {
+                "_description" : "Подъём руки на 90 градусов",
+                "point" : 1,
+                "phi" : 0,
+                "theta" : 90,
+                "alpha" : -90
+            }
+        ]
+    },
+    {
+        "name" : "LeftHand-3",
+        "filename" : "data/bodyparts/leftHand-3.bin",
+        "matrices" : [
+            {
+                "_description" : "Подъём руки на 90 градусов",
+                "point" : 1,
+                "phi" : 0,
+                "theta" : 90,
+                "alpha" : -90
+            }
+        ]
+    },
+    {
+        "name" : "RightHand-1",
+        "filename" : "data/bodyparts/rightHand-1.bin",
+        "matrices" : [
+            {
+                "_description" : "Подъём руки на 90 градусов",
+                "point" : 3,
+                "phi" : 0,
+                "theta" : 90,
+                "alpha" : -90
+            }
+        ]
+    },
+    {
+        "name" : "RightHand-2",
+        "filename" : "data/bodyparts/rightHand-2.bin",
+        "matrices" : [
+            {
+                "_description" : "Подъём руки на 90 градусов",
+                "point" : 3,
+                "phi" : 0,
+                "theta" : 90,
+                "alpha" : -90
+            }
+        ]
+    },
+    {
+        "name" : "RightHand-3",
+        "filename" : "data/bodyparts/rightHand-3.bin",
+        "matrices" : [
+            {
+                "_description" : "Подъём руки на 90 градусов",
+                "point" : 3,
+                "phi" : 0,
+                "theta" : 90,
+                "alpha" : -90
+            }
+        ]
+    }
+]

@@ -1,0 +1,144 @@
+Organs and tissues of the adult female reference computational phantom			
+			
+Organ Organ                                          Tissue Density	Color
+ID                                                   number	
+1     Adrenal, left                                    43    1.030	0xCCFF33
+2     Adrenal, right                                   43    1.030	0xCCFF33
+3     Anterior nasal passage (ET1)                     45    1.030	0x6699FF
+4     Posterior nasal passage down to larynx (ET2)     45    1.030	0xFF33CC
+5     Oral mucosa, tongue                              29    1.050	0x993300
+6     Oral mucosa, lips and cheeks                     29    1.050	0x993300
+7     Trachea                                          45    1.030	0x009ee5
+8     Bronchi                                          45    1.030	0x9933FF
+9     Blood vessels, head                              28    1.060	0x990000
+10    Blood vessels, trunk                             28    1.060	0x990000
+11    Blood vessels, arms                              28    1.060	0x990000
+12    Blood vessels, legs                              28    1.060	0x990000
+13    Humeri, upper half, cortical                      2    1.920	0xFFFFCC
+14    Humeri, upper half, spongiosa                     3    1.185	0xcc0052
+15    Humeri, upper half, medullary cavity             22    0.980	0xa0a080
+16    Humeri, lower half, cortical                      2    1.920	0xFFFFCC
+17    Humeri, lower half, spongiosa                     4    1.117	0xcc0052
+18    Humeri, lower half, medullary cavity             23    0.980	0xa0a080
+19    Ulnae and radii, cortical                         2    1.920	0xFFFFFF
+20    Ulnae and radii, spongiosa                        5    1.117	0xcc0052
+21    Ulnae and radii, medullary cavity                24    0.980	0xa0a080
+22    Wrists and hand bones, cortical                   2    1.920	0xFFFFFF
+23    Wrists and hand bones, spongiosa                  6    1.117	0xcc0052
+24    Clavicles, cortical                               2    1.920	0xF9F9F9
+25    Clavicles, spongiosa                              7    1.191	0xcc0052
+26    Cranium, cortical                                 2    1.920	0xEBEBEB
+27    Cranium, spongiosa                                8    1.245	0xcc0052
+28    Femora, upper half, cortical                      2    1.920	0xF9F9F9
+29    Femora, upper half, spongiosa                     9    1.046	0xcc0052
+30    Femora, upper half, medullary cavity             22    0.980	0xa0a080
+31    Femora, lower half, cortical                      2    1.920	0xF9F9F9
+32    Femora, lower half, spongiosa                    10    1.117	0xcc0052
+33    Femora, lower half, medullary cavity             23    0.980	0xa0a080
+34    Tibiae, fibulae and patellae, cortical            2    1.920	0xF9F9F9
+35    Tibiae, fibulae and patellae, spongiosa          11    1.117	0xcc0052
+36    Tibiae, fibulae and patellae, medullary cavity   25    0.980	0xa0a080
+37    Ankles and foot bones, cortical                   2    1.920	0xF9F9F9
+38    Ankles and foot bones, spongiosa                 12    1.117	0xcc0052
+39    Mandible, cortical                                2    1.920	0xBFBFBF
+40    Mandible, spongiosa                              13    1.189	0xcc0052
+41    Pelvis, cortical                                  2    1.920	0xFFFFCC
+42    Pelvis, spongiosa                                14    1.109	0xcc0052
+43    Ribs, cortical                                    2    1.920	0xFFFFCC
+44    Ribs, spongiosa                                  15    1.092	0xcc0052
+45    Scapulae, cortical                                2    1.920	0xf2f2f2
+46    Scapulae, spongiosa                              16    1.128	0xa6a6a6
+47    Cervical spine, cortical                          2    1.920	0xF3F3F3
+48    Cervical spine, spongiosa                        17    1.135	0xcc0052
+49    Thoracic spine, cortical                          2    1.920	0xF3F3F3
+50    Thoracic spine, spongiosa                        18    1.084	0xcc0052
+51    Lumbar spine, cortical                            2    1.920	0xF3F3F3
+52    Lumbar spine, spongiosa                          19    1.171	0xcc0052
+53    Sacrum, cortical                                  2    1.920	0xFFFFCC
+54    Sacrum, spongiosa                                20    1.052	0xcc0052
+55    Sternum, cortical                                 2    1.920	0xE8E8E8
+56    Sternum, spongiosa                               21    1.076	0xcc0052
+57    Cartilage, head                                  26    1.100	0xA2A2A2
+58    Cartilage, trunk                                 26    1.100	0xA2A2A2
+59    Cartilage, arms                                  26    1.100	0xA2A2A2
+60    Cartilage, legs                                  26    1.100	0xA2A2A2
+61    Brain                                            32    1.050	0xffcc99
+62    Breast, left, adipose tissue                     49    0.950	0xffd9b3
+63    Breast, left, glandular tissue                   48    1.020	0xffb3b3
+64    Breast, right, adipose tissue                    49    0.950	0xffd9b3
+65    Breast, right, glandular tissue                  48    1.020	0xffb3b3
+66    Eye lense, left                                  34    1.050	0x739900
+67    Eye bulb, left                                   34    1.050	0xecffb3
+68    Eye lense, right                                 34    1.050	0x739900
+69    Eye bulb, right                                  34    1.050	0xecffb3
+70    Gall bladder wall                                45    1.030	0x327B4A
+71    Gall bladder contents                            45    1.030	0x005B1E
+72    Stomach wall                                     36    1.040	0x498A42
+73    Stomach contents                                 51    1.040	0x33602E
+74    Small intestine wall                             37    1.040	0x116F6F
+75    Small intestine contents                         51    1.040	0x18EDED
+76    Ascending colon wall                             38    1.040	0x59BA80
+77    Ascending colon contents                         51    1.040	0x727B76
+78    Transverse colon wall, right                     38    1.040	0x7D827F
+79    Transverse colon contents, right                 51    1.040	0x4D524F
+80    Transverse colon wall, left                      38    1.040	0x66FAA1
+81    Transverse colon contents, left                  51    1.040	0x45AD6E
+82    Descending colon wall                            38    1.040	0x83F9EB
+83    Descending colon contents                        51    1.040	0x57B7AC
+84    Sigmoid colon wall                               38    1.040	0x10BC9D
+85    Sigmoid colon contents                           51    1.040	0x0A8670
+86    Rectum wall                                      38    1.040	0x85E6D5
+87    Heart wall                                       33    1.050	0x62A195
+88    Heart contents (blood)                           28    1.060	0x18EB4D
+89    Kidney, left, cortex                             35    1.050	0xF53ADC
+90    Kidney, left, medulla                            35    1.050	0xF9F944
+91    Kidney, left, pelvis                             35    1.050	0xAAAA37
+92    Kidney, right, cortex                            35    1.050	0xF53ADC
+93    Kidney, right, medulla                           35    1.050	0xF9F944
+94    Kidney, right, pelvis                            35    1.050	0xAAAA37
+95    Liver                                            30    1.050	0xd279a6
+96    Lung, left, blood                                28    1.060	0xCD0B3B
+97    Lung, left, tissue                               50    0.385	0xA8C8D6
+98    Lung, right, blood                               28    1.060	0xCD0B3B
+99    Lung, right, tissue                              50    0.385	0xA8C8D6
+100   Lymphatic nodes, extrathoracic airways           47    1.030	0xA6AD2D
+101   Lymphatic nodes, thoracic airways                47    1.030	0xA6AD2D
+102   Lymphatic nodes, head                            47    1.030	0xA6AD2D
+103   Lymphatic nodes, trunk                           47    1.030	0xA6AD2D
+104   Lymphatic nodes, arms                            47    1.030	0xA6AD2D
+105   Lymphatic nodes, legs                            47    1.030	0xA6AD2D
+106   Muscle, head                                     29    1.050	0xB43104
+107   Muscle, trunk                                    29    1.050	0xB43104
+108   Muscle, arms                                     29    1.050	0xB43104
+109   Muscle, legs                                     29    1.050	0xB43104
+110   Oesophagus                                       44    1.030	0x4AD30F
+111   Ovary, left                                      42    1.040	0xF03CD8
+112   Ovary, right                                     42    1.040	0xF03CD8
+113   Pancreas                                         31    1.050	0x1C44F4
+114   Pituitary gland                                  45    1.030	0x9B1ABC
+115   Prostate                                         46    1.030	0xE34BF7
+116   Residual tissue, head                            49    0.950	0xFAC5EE
+117   Residual tissue, trunk                           49    0.950	0xFAC5EE
+118   Residual tissue, arms                            49    0.950	0xFAC5EE
+119   Residual tissue, legs                            49    0.950	0xFAC5EE
+120   Salivary glands, left                            45    1.030	0xAE0686
+121   Salivary glands, right                           45    1.030	0xAE0686
+122   Skin, head                                       27    1.090	0xffb366
+123   Skin, trunk                                      27    1.090	0xffb366
+124   Skin, arms                                       27    1.090	0xffb366
+125   Skin, legs                                       27    1.090	0xffb366
+126   Spinal cord                                      45    1.030	0xBFB7BD
+127   Spleen                                           39    1.040	0xFB87E0
+128   Teeth                                             1    2.750	0x4D4C56
+129   Testis, left                                     42    1.040	0xCF17E4
+130   Testis, right                                    42    1.040	0xCF17E4
+131   Thymus                                           45    1.030	0x167FEF
+132   Thyroid                                          40    1.040	0xA531F2
+133   Tongue (inner part)                              29    1.050	0xCB88F7
+134   Tonsils                                          45    1.030	0xF3F93E
+135   Ureter, left                                     45    1.030	0xD0D368
+136   Ureter, right                                    45    1.030	0xD0D368
+137   Urinary bladder wall                             41    1.040	0xFBF027
+138   Urinary bladder contents                         52    1.040	0xCAC11E
+139   Uterus                                           46    1.030	0xFFF300
+140   Air inside body                                  53    0.001	0x000000

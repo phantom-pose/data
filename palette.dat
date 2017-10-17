@@ -1,0 +1,142 @@
+0	0x000000	Empty space
+1	0xCCFF33	Adrenal, left
+2	0xCCFF33	Adrenal, right
+3	0x6699FF	Anterior nasal passage (ET1)
+4	0xFF33CC	Posterior nasal passage down to larynx (ET2)
+5	0x993300	Oral mucosa, tongue
+6	0x993300	Oral mucosa, lips and cheeks
+7	0x009ee5	Trachea
+8	0x9933FF	Bronchi
+9	0x990000	Blood vessels, head
+10	0x990000	Blood vessels, trunk
+11	0x990000	Blood vessels, arms
+12	0x990000	Blood vessels, legs
+13	0xFFFFCC	Humeri, upper half, cortical
+14	0xcc0052	Humeri, upper half, spongiosa
+15	0xa0a080	Humeri, upper half, medullary cavity
+16	0xFFFFCC	Humeri, lower half, cortical
+17	0xcc0052	Humeri, lower half, spongiosa
+18	0xa0a080	Humeri, lower half, medullary cavity
+19	0xFFFFFF	Ulnae and radii, cortical
+20	0xcc0052	Ulnae and radii, spongiosa
+21	0xa0a080	Ulnae and radii, medullary cavity
+22	0xFFFFFF	Wrists and hand bones, cortical
+23	0xcc0052	Wrists and hand bones, spongiosa
+24	0xF9F9F9	Clavicles, cortical
+25	0xcc0052	Clavicles, spongiosa
+26	0xEBEBEB	Cranium, cortical
+27	0xcc0052	Cranium, spongiosa
+28	0xF9F9F9	Femora, upper half, cortical
+29	0xcc0052	Femora, upper half, spongiosa
+30	0xa0a080	Femora, upper half, medullary cavity
+31	0xF9F9F9	Femora, lower half, cortical
+32	0xcc0052	Femora, lower half, spongiosa
+33	0xa0a080	Femora, lower half, medullary cavity
+34	0xF9F9F9	Tibiae, fibulae and patellae, cortical
+35	0xcc0052	Tibiae, fibulae and patellae, spongiosa
+36	0xa0a080	Tibiae, fibulae and patellae, medullary cavity
+37	0xF9F9F9	Ankles and foot bones, cortical
+38	0xcc0052	Ankles and foot bones, spongiosa
+39	0xBFBFBF	Mandible, cortical
+40	0xcc0052	Mandible, spongiosa
+41	0xFFFFCC	Pelvis, cortical
+42	0xcc0052	Pelvis, spongiosa
+43	0xFFFFCC	Ribs, cortical
+44	0xcc0052	Ribs, spongiosa
+45	0xf2f2f2	Scapulae, cortical
+46	0xa6a6a6	Scapulae, spongiosa
+47	0xF3F3F3	Cervical spine, cortical
+48	0xcc0052	Cervical spine, spongiosa
+49	0xF3F3F3	Thoracic spine, cortical
+50	0xcc0052	Thoracic spine, spongiosa
+51	0xF3F3F3	Lumbar spine, cortical
+52	0xcc0052	Lumbar spine, spongiosa
+53	0xFFFFCC	Sacrum, cortical
+54	0xcc0052	Sacrum, spongiosa
+55	0xE8E8E8	Sternum, cortical
+56	0xcc0052	Sternum, spongiosa
+57	0xA2A2A2	Cartilage, headski
+58	0xA2A2A2	Cartilage, trunk
+59	0xA2A2A2	Cartilage, arms
+60	0xA2A2A2	Cartilage, legs
+61	0xffcc99	Brain
+62	0xffd9b3	Breast, left, adipose tissue
+63	0xffb3b3	Breast, left, glandular tissue
+64	0xffd9b3	Breast, right, adipose tissue
+65	0xffb3b3	Breast, right, glandular tissue
+66	0x739900	Eye lense, left
+67	0xecffb3	Eye bulb, left
+68	0x739900	Eye lense, right
+69	0xecffb3	Eye bulb, right
+70	0x327B4A	Gall bladder wall
+71	0x005B1E	Gall bladder contents
+72	0x498A42	Stomach wall
+73	0x33602E	Stomach contents
+74	0x116F6F	Small intestine wall
+75	0x18EDED	Small intestine contents
+76	0x59BA80	Ascending colon wall
+77	0x727B76	Ascending colon contents
+78	0x7D827F	Transverse colon wall, right
+79	0x4D524F	Transverse colon contents, right
+80	0x66FAA1	Transverse colon wall, left
+81	0x45AD6E	Transverse colon contents, left
+82	0x83F9EB	Descending colon wall
+83	0x57B7AC	Descending colon contents
+84	0x10BC9D	Sigmoid colon wall
+85	0x0A8670	Sigmoid colon contents
+86	0x85E6D5	Rectum wall
+87	0x62A195	Heart wall
+88	0x18EB4D	Heart contents (blood)
+89	0xF53ADC	Kidney, left, cortex
+90	0xF9F944	Kidney, left, medulla
+91	0xAAAA37	Kidney, left, pelvis
+92	0xF53ADC	Kidney, right, cortex
+93	0xF9F944	Kidney, right, medulla
+94	0xAAAA37	Kidney, right, pelvis
+95	0xd279a6	Liver
+96	0xCD0B3B	Lung, left, blood
+97	0xA8C8D6	Lung, left, tissue
+98	0xCD0B3B	Lung, right, blood
+99	0xA8C8D6	Lung, right, tissue
+100	0xA6AD2D	Lymphatic nodes, extrathoracic airways
+101	0xA6AD2D	Lymphatic nodes, thoracic airways
+102	0xA6AD2D	Lymphatic nodes, head
+103	0xA6AD2D	Lymphatic nodes, trunk
+104	0xA6AD2D	Lymphatic nodes, arms
+105	0xA6AD2D	Lymphatic nodes, legs
+106	0xB43104	Muscle, head
+107	0xB43104	Muscle, trunk
+108	0xB43104	Muscle, arms
+109	0xB43104	Muscle, legs
+110	0x4AD30F	Oesophagus
+111	0xF03CD8	Ovary, left
+112	0xF03CD8	Ovary, right
+113	0x1C44F4	Pancreas
+114	0x9B1ABC	Pituitary gland
+115	0xE34BF7	Prostate
+116	0xFAC5EE	Residual tissue, head
+117	0xFAC5EE	Residual tissue, trunk
+118	0xFAC5EE	Residual tissue, arms
+119	0xFAC5EE	Residual tissue, legs
+120	0xAE0686	Salivary glands, left
+121	0xAE0686	Salivary glands, right
+122	0xffb366	Skin, head
+123	0xffb366	Skin, trunk
+124	0xffb366	Skin, arms
+125	0xffb366	Skin, legs
+126	0xBFB7BD	Spinal cord
+127	0xFB87E0	Spleen
+128	0x4D4C56	Teeth
+129	0xCF17E4	Testis, left
+130	0xCF17E4	Testis, right
+131	0x167FEF	Thymus
+132	0xA531F2	Thyroid
+133	0xCB88F7	Tongue (inner part)
+134	0xF3F93E	Tonsils
+135	0xD0D368	Ureter, left
+136	0xD0D368	Ureter, right
+137	0xFBF027	Urinary bladder wall
+138	0xCAC11E	Urinary bladder contents
+139	0xFFF300	Uterus
+140	0x000000	Air inside body
+141	0x3333CC	Foot	
