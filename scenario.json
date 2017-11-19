@@ -20,6 +20,7 @@
         ],
         "primitives" : [
             {
+                "name" : "LeftLeg-1",
                 "x0" : 271,
                 "y0" : 28,
                 "z0" : 0,
@@ -43,6 +44,7 @@
         ],
         "primitives" : [
             {
+                "name" : "LeftLeg-2",
                 "x0" : 277,
                 "y0" : 80,
                 "z0" : 437,
@@ -66,6 +68,7 @@
         ],
         "primitives" : [
             {
+                "name" : "LeftLeg-3",
                 "x0" : 277,
                 "y0" : 45,
                 "z0" : 637,
@@ -96,6 +99,7 @@
         ],
         "primitives" : [
             {
+                "name" : "RightLeg-1",
                 "x0" : 133,
                 "y0" : 31,
                 "z0" : 0,
@@ -108,17 +112,9 @@
     {
         "name" : "RightLeg-2",
         "filename" : "data/bodyparts/rightLeg-2.bin",
-        "matrices" : [
-            {
-                "_description" : "Подъём колена на 90 градусов",
-                "point" : 7,
-                "phi" : 0,
-                "theta" : 90,
-                "alpha" : -90
-            }
-        ],
         "primitives" : [
             {
+                "name" : "RightLeg-2",
                 "x0" : 123,
                 "y0" : 80,
                 "z0" : 437,
@@ -142,6 +138,7 @@
         ],
         "primitives" : [
             {
+                "name" : "RightLeg-3",
                 "x0" : 75,
                 "y0" : 43,
                 "z0" : 637,
@@ -165,6 +162,7 @@
         ],
         "primitives" : [
             {
+                "name" : "LeftHand-1",
                 "x0" : 435,
                 "y0" : 166,
                 "z0" : 787,
@@ -188,6 +186,7 @@
         ],
         "primitives" : [
             {
+                "name" : "LeftHand-2",
                 "x0" : 416,
                 "y0" : 150,
                 "z0" : 1125,
@@ -211,6 +210,7 @@
         ],
         "primitives" : [
             {
+                "name" : "LeftHand-3",
                 "x0" : 410,
                 "y0" : 90,
                 "z0" : 1250,
@@ -234,6 +234,7 @@
         ],
         "primitives" : [
             {
+                "name" : "RightHand-1",
                 "x0" : 0,
                 "y0" : 163,
                 "z0" : 802,
@@ -257,6 +258,7 @@
         ],
         "primitives" : [
             {
+                "name" : "RightHand-2",
                 "x0" : 37,
                 "y0" : 142,
                 "z0" : 1125,
@@ -280,6 +282,7 @@
         ],
         "primitives" : [
             {
+                "name" : "RightHand-3",
                 "x0" : 48,
                 "y0" : 90,
                 "z0" : 1250,
